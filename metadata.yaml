@@ -1,5 +1,8 @@
 _repo: Crime-and-Corruption_5888
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vaknin, Samuel
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '24903'
     url: http://www.gutenberg.org/2009/agents/24903
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5888#Crime-and-Corruption
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
